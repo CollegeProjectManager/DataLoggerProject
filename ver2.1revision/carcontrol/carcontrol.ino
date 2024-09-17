@@ -23,7 +23,7 @@ void setup() {
   Serial.begin(115200);
 
   // Initialize Bluetooth
-  serialBT.begin("Aslam Hossain YT");
+  serialBT.begin("Esp32 Car");
 
   // Setup PWM pins (using analogWrite)
   pinMode(pwmPinA, OUTPUT);
