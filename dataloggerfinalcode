@@ -28,7 +28,7 @@ const int chipSelect = SD_CS;
 // Wi-Fi and Google Sheets URL
 const char* ssid = "Virus";          // Replace with your Wi-Fi network name
 const char* password = "Devendra@9625";  // Replace with your Wi-Fi password
-const char* googleSheetsURL = "https://script.google.com/macros/s/AKfycbxUFVO7nFWvPwXfcyvH05iKBYV6VSHp7Qck2tIbo1GB7B0thz47aYMzDTiGzl8IgDkP/exec";  // Replace with your Google Sheets web app URL
+const char* googleSheetsURL = "https://script.google.com/macros/s/AKfycbyeiC7AGOJMIH9x38PSQMiabXSwwTgc5aNC-XpfDR4t5PQK0swhVk3J5mifYjswKbtC7Q/exec";  // Replace with your Google Sheets web app URL
 
 // I2C LCD
 LiquidCrystal_I2C lcd(0x27, 16, 2);
