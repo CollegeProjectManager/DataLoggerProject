@@ -1,0 +1,2 @@
+#define BLYNK_TEMPLATE_NAME "Data Logger Project"
+#define BLYNK_AUTH_TOKEN "HycRF3AL_2WJchL5CD5PwkhQ00BwCX7o"
